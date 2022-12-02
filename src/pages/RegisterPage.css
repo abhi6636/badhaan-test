@@ -1,0 +1,13 @@
+.register-block {
+    background-size: auto;
+    float:left;
+    width:100%;
+    height: 100%;
+    padding : 50px 0;
+}
+
+.container{background:radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);; border-radius: 10px; width: 40%; height: 40%;}
+.register-sec{padding: 50px 30px; position:relative;}
+.register-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: black;}
+.register-sec h2:after{content:" "; width:100px; height:5px; background:black; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background: #0069c0; color:#fff; font-weight:600;}
